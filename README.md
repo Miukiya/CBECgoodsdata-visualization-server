@@ -1,8 +1,8 @@
 # CBECgoodsdata-visualization-server
 地方跨境电商通关商品数据可视化（毕设项目后台）  
 目录结构  
-|--api							接口处理代码封装  
-	|--goodApi					goodUrl文件里需要调用的接口代码  
+|--api  							接口处理代码封装  
+	|--goodApi  					goodUrl文件里需要调用的接口代码  
   |--personApi				personUrl文件里需要调用的接口代码  
 |--bin							项目执行文件  
 	|--www						port配置端口号 默认为3000  
